@@ -3,7 +3,7 @@ import propTypes from 'prop-types';
 import 'antd/dist/antd.css';
 import '../styles/index.scss';
 import Header from "./header/Header";
-import Article from "./article/Article";
+import ArticleIndex from "./article/ArticleIndex";
 import {connect} from "react-redux";
 import {setInnerWidthAC} from "../store/actions/app";
 import Footer from "./footer/Footer";
@@ -23,7 +23,7 @@ const App = (props) => {
     return (
         <div>
             <Header />
-            <Article />
+            <ArticleIndex />
             <Footer />
         </div>
     );
