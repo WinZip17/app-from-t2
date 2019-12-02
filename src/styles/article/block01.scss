@@ -1,0 +1,112 @@
+.backgroundAlt1 {
+  display: flex;
+  height: 725px;
+  width: 1024px;
+  padding: 0;
+  margin: 63px auto 0;
+  background: url('../media/article/bg-1_desktop.jpg') no-repeat center;
+  background-size: 130% 123%;
+  background-origin: border-box;
+  background-position: 0px 0px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    background: url('../media/article/bg-1_tablet.jpg') no-repeat center;
+    background-size: auto 623px;
+    background-position: left;
+    width: 768px;
+    height: 623px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    background: url('../media/article/bg-1_mobile.jpg') no-repeat center;
+    background-size: 100% 100%;
+    background-position: 0px 0px;
+    width: 320px;
+    height: 394px;
+  }
+}
+
+.art1 {
+  padding: 133px 47px;
+  color: #ffffff;
+  text-align: justify;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    padding: 115px 24px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    padding: 67px 21px;
+    text-align: center;
+  }
+}
+
+.heading1 {
+  width: 445px;
+  font-size: 37pt;
+  line-height: 1.22;
+  margin-left: -1px;
+  margin-bottom: 0;
+  color: #ffffff!important;
+  font-family: 'Overpass', sans-serif;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    font-size: 32pt;
+    line-height: 1.2;
+    letter-spacing: -0.015ex;
+    text-align: left;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    font-size: 22pt;
+    line-height: 1.18;
+    margin-left: 5px;
+    letter-spacing: 0.01ex;
+    width: 266px;
+    margin-bottom: 10px;
+  }
+}
+
+
+.art1Text {
+  width: 440px;
+  font-size: 15pt;
+  text-align: left;
+  line-height: 1.30;
+  letter-spacing: -0.1px;
+  margin-bottom: 42px;
+  margin-top: 18px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    width: 400px;
+    font-size: 14pt;
+    line-height: 1.30;
+    margin-bottom: 34px;
+    margin-top: 19px;
+    letter-spacing: -0.27px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    width: 275px;
+    font-size: 12pt;
+    line-height: 1.42;
+    letter-spacing: -0.002ex;
+    margin-bottom: 37px;
+    margin-top: 0;
+    text-align: center;
+  }
+}
+
+.mobile {
+  display: none;
+  @media (min-width: 320px) and (max-width: 768px) {
+    display: block;
+  }
+}
+
+.buttonArt1 {
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-left: 1px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-left: -5px;
+  }
+}
+
+.desktop {
+  @media (min-width: 320px) and (max-width: 768px) {
+    display: none;
+  }
+}

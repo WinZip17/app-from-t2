@@ -1,0 +1,54 @@
+/*Окно подтверждения регестрации и затемнение остального*/
+.fon-successfully {
+  position: fixed;
+  background-color: #000000;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 956;
+  opacity: 0.7;
+}
+
+.congratulationsDiv-successfully {
+  position: fixed;
+  top: 33%;
+  left: 41.5%;
+  background-color: white;
+  text-align: center;
+  z-index: 957;
+  opacity: 1;
+  height: 180px;
+  width: 290px;
+  border-radius: 5px;
+  padding-right: 18px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    left: 35%;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    left: 31%;
+  }
+}
+
+.congratulationsDiv-successfully > button {
+  float: right;
+  display: block;
+}
+
+.congratulationsDiv-successfully > h3 {
+  font-size: 16pt;
+  text-align: left;
+  margin-top: 22px;
+  margin-left: 23px;
+  margin-bottom: 0;
+}
+
+.congratulationsDiv-successfully > p {
+  font-size: 12pt;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 23px;
+  margin-bottom: 35px;
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 1.25;
+}

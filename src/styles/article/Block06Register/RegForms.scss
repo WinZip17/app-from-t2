@@ -1,0 +1,257 @@
+#formRegister {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.forms-register {
+  margin-top: 34px;
+  padding-left: 15px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12pt;
+  width: 290px;
+  height: 56px;
+  border: solid 1px #D3D3D3;
+  border-radius: 3px;
+  box-shadow: 0 2px 2px -2px #333;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    padding-left: 17px;
+    margin-top: 27px;
+    width: 220px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    padding-left: 17px;
+    margin: 0 ;
+    flex-direction: column;
+  }
+}
+
+.ant-form-item {
+  margin:  0 auto ;
+  margin-bottom: 37px!important;
+  @media (min-width: 1024px) {
+    margin-left: 0!important;
+    margin-right: 0!important;
+  }
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-left: 0!important;
+    margin-right: 0!important;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-bottom: 36px!important;
+  }
+}
+
+#formRegister > div:nth-child(2) {
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-bottom: 35px!important;
+  }
+}
+
+#formRegister > div:nth-child(3) {
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-bottom: 32px!important;
+  }
+}
+
+.ant-form-explain {
+  margin-left: 16px;
+  position: absolute;
+}
+
+
+.Legend-register {
+  font-size: 9pt;
+  color: #D3D3D3;
+  position: absolute;
+  z-index: 15;
+  margin-top: 14px;
+  margin-left: 14px;
+  display: block;
+  background: white;
+  padding-left: 3px;
+  padding-right: 3px;
+  height: 27px;
+  border-radius: 25%;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-top: 8px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-top: -19px;
+  }
+}
+
+
+.position-register {
+  width: 450px!important;
+  font-family: 'Source Sans Pro', sans-serif !important;
+  font-size: 12pt!important;
+  color: black!important;
+  box-shadow: 0 2px 2px -2px #333;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    width: 345px!important;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    width: 290px!important;
+  }
+}
+
+.ant-select-selection {
+  height: 55px!important;
+}
+
+.ant-select-selection-selected-value {
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.ant-select-arrow {
+  margin-right: 8px;
+  margin-top: -3px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-right: 2px;
+    margin-top: -4px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-right: 1px;
+    margin-top: -4px;
+  }
+}
+
+/*инпут фото*/
+.photo-register {
+  margin-top: 4px;
+  display: flex;
+  flex-direction: row;
+  width: 450px!important;
+  height: 55px!important;
+  border: solid 1px #D3D3D3;
+  border-radius: 5px;
+  box-shadow: 0 2px 2px -2px #333;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    width: 345px!important;
+    margin-right: 0;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    width: 290px!important;
+    margin-right: 0;
+    margin-top: 0;
+    align-items: center;
+  }
+}
+
+.photo-register-name-button-shell {
+  width: 100%!important;
+  height: 100%!important;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-top: 37px;
+    width: 290px!important;
+    justify-content: space-between;
+  }
+
+}
+
+.ant-upload-select-text {
+  width: 100%;
+}
+
+.photo-register > label:hover {
+  cursor: pointer;
+}
+
+.photoName-register {
+  display: inline-block;
+  font-size: 12pt;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #D3D3D3;
+  cursor: pointer;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+  margin-top: 14px;
+  margin-left: 15px;
+  width: 304px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    width: 199px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    width: 219px;
+  }
+}
+
+.buttonUpload-register {
+  width: 129px;
+  display: inline-block;
+  height: 55px;
+  font-size: 14pt;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #ff6d00!important;
+  letter-spacing: 0.12ex;
+  text-align: center;
+  border: solid 1.5px #ff6d00!important;
+  border-radius: 3px;
+  cursor: pointer;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+  margin-top: -1px;
+  @media (min-width: 320px) and (max-width: 768px) {
+    width: 56px;
+  }
+}
+
+.uploadIcon-register {
+  margin-top: 6px;
+}
+
+.commentPhoto-register {
+  color: #D3D3D3;
+  font-size: 9.5pt;
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: -0.035ex;
+  margin-top: 4px!important;
+  margin-left: 15px!important;
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-top: 0!important;
+    margin-left: 16px!important;
+    width: 230px;
+    font-size: 9pt;
+    letter-spacing: 0;
+  }
+}
+
+.buttonSell-register {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-top: 22px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-top: 29px;
+  }
+}
+
+.uploadIcon-register {
+  display: none!important;
+  @media (min-width: 320px) and (max-width: 768px) {
+    display: block!important;
+  }
+}
+
+.fix-button-register {
+  padding-top: 0;
+}
+
+.fix-button-register[disabled=disabled], .fix-button-register:disabled {
+  padding-top: 0;
+}
+
+.error {
+  color: red;
+}

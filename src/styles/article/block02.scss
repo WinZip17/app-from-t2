@@ -1,0 +1,168 @@
+.backgroundAlt2 {
+  margin: 0 auto;
+  display: flex;
+  background-color: #ffffff;
+  width: 1024px;
+  height: 521px;
+  padding: 0;
+  @media (min-width: 768px) and (max-width: 1024px){
+    width: 768px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    width: 320px;
+    height: 750px;
+  }
+}
+
+.alt2 {
+  display: flex;
+  flex-direction: column;
+  width: 1024px;
+}
+
+.heading2Shell {
+  display: flex;
+  width: 100%;
+  text-align: center;
+  margin-top: 130px;
+  @media (min-width: 768px) and (max-width: 1024px){
+    margin-top: 107px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-top: 64px;
+    padding-right: 15px;
+  }
+}
+
+.heading2 {
+  width: 100%;
+  font-size: 31pt;
+  letter-spacing: 0.2px;
+  @media (min-width: 768px) and (max-width: 1024px){
+    font-size: 32pt;
+    letter-spacing: -0.2px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-top: 0;
+    font-size: 19pt;
+  }
+}
+
+.alt2Content {
+  margin-top: -18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  @media (min-width: 320px) and (max-width: 768px) {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.manMobileShell {
+  padding-top: 15px;
+  margin-left: 48px;
+  width: 289px;
+  height: 300px;
+  display: block;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-left: -10px;
+    height: 230px;
+    margin-top: 22px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    height: 239px;
+  }
+}
+
+.manMobile {
+  @media (min-width: 768px) and (max-width: 1024px) {
+    width: 220px;
+    height: 220px;
+    margin-left: 35px;
+    margin-top: -4px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    width: 220px;
+    height: 220px;
+    margin-left: 2px;
+    margin-top: 12px;
+  }
+}
+
+.alt2Text {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-left: 0;
+    padding-top: 7px;
+    padding-left: 29px;
+    display: block;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    padding-right: 0;
+    margin-top: 0;
+    margin-left: 0;
+  }
+}
+
+.alt2Text h4 {
+  font-size: 18pt;
+  margin-top: 22px;
+  margin-bottom: 0;
+  letter-spacing: 0.9px;
+  @media (min-width: 320px) and (max-width: 768px) {
+    font-size: 16pt;
+    text-align: center;
+    width: 275px;
+    letter-spacing: 0.02ex;
+    margin-left: -8px;
+    line-height: 1.25;
+    margin-bottom: 12px;
+  }
+}
+
+p.p2 {
+  font-size: 12pt;
+  margin-top: 5px;
+  line-height: 1.35;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-top: 9px;
+    line-height: 1.38;
+    margin-bottom: 25px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-left: -15px;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 290px;
+    text-align: center;
+    line-height: 1.4;
+  }
+}
+
+p.p2:nth-child(3) {
+  margin-top: 22px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-bottom: 17px;
+    margin-top: 14px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-top: 19px;
+  }
+}
+
+/*выравнивание кнопки */
+.alt2Text > .buttonText {
+  margin-top: 19px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-top: 0;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    text-align: center;
+    margin-top: 11px;
+    margin-left: -47px;
+  }
+}
+

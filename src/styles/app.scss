@@ -1,0 +1,179 @@
+/*импорт шрифтов*/
+@import url('https://fonts.googleapis.com/css?family=Overpass:600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+body > div > div{
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (min-width: 1px) and (max-width: 319px) {
+  body {
+    display: none;
+  }
+}
+
+/*button*/
+.buttonPrimary {
+  background-color: #ef6c00;
+  width: 290px;
+  height: 40px;
+  border-radius: 3px;
+  border: hidden;
+  color: #ffffff;
+  font-size: 14pt;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  letter-spacing: 0.12ex;
+  padding-top: 5px;
+  cursor: pointer;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+  &:active {
+    color: #ffffff;
+    border: hidden;
+    background-color: #ff6d00;
+  }
+  &:hover {
+    color: #ffffff!important;
+    background-color: rgba(255, 113, 0, 0.78) !important;
+  }
+}
+
+
+.buttonSecondary {
+  background-color: #ffffff;
+  width: 290px;
+  height: 40px;
+  border-radius: 3px;
+  border: solid 2px #ff6d00;
+  color: #ff6d00;
+  font-size: 14pt;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  letter-spacing: 0.12ex;
+  padding-top: 1px;
+  cursor: pointer;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
+
+.buttonSecondary:active {
+  background-color: #D3D3D3;
+}
+
+.buttonInactiv {
+  background-color: #D3D3D3;
+  width: 290px;
+  height: 40px;
+  border-radius: 3px;
+  border: none;
+  color: #696969;
+  font-size: 14pt;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  letter-spacing: 0.12ex;
+  padding-top: 7px;
+  cursor: pointer;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
+
+button[disabled=disabled], button:disabled {
+  background-color: #D3D3D3!important;
+  width: 290px;
+  height: 40px;
+  border-radius: 3px;
+  border: none;
+  color: #696969!important;
+  font-size: 14pt;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  letter-spacing: 0.12ex;
+  padding-top: 7px;
+  cursor: pointer;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+  &:hover {
+    background-color: #D3D3D3!important;
+    color: #696969!important;
+  }
+}
+
+
+.buttonText {
+  background-color: #ffffff;
+  color: #ef6c00;
+  border: hidden;
+  font-size: 16pt;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: 0.08ex;
+  cursor: pointer;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
+
+.singOutButton {
+  border: none;
+  background-color: #ffffff;
+}
+
+
+/*параметры Style guide           и ниже параметры кнопок*/
+h1 {
+  font-family: 'Overpass', sans-serif;
+  font-weight: 600;
+}
+
+h2 {
+  font-family: 'Overpass', sans-serif;
+  font-size: 42pt;
+  font-weight: 600;
+}
+
+h3 {
+  font-family: 'Overpass', sans-serif;
+  font-size: 26pt;
+  font-weight: 600;
+}
+
+h4 {
+  font-family: 'Overpass', sans-serif;
+  font-size: 22pt;
+  font-weight: 600;
+}
+
+h5 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18pt;
+  font-weight: 400;
+}
+
+p.p1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+}
+
+p.p2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16pt;
+  font-weight: 400;
+}
+
+p.p3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 14pt;
+  font-weight: 400;
+}

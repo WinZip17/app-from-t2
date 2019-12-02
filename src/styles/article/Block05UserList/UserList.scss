@@ -1,0 +1,30 @@
+.usersList {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  padding-left: 50px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-top: 21px;
+    padding: 0 35px;
+    justify-content: space-between;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    padding-left: 0;
+    margin-top: 14px;
+  }
+}
+
+.UserListContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+

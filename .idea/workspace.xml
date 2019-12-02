@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7aba76b-64af-45c6-9ccc-87a2ffd146a8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1SKUboQOZGGJtPVNuDXIvFH5daV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/styles/header" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project\app-from-t2\src\components\article\Block06Register\reduxInput" />
+      <recent name="C:\Project\app-from-t2\src\styles\article\UserInfoForBlock05" />
+      <recent name="C:\Project\app-from-t2\src\components\article\Block05OurCheerfulUsers" />
+      <recent name="C:\Project\app-from-t2\dist" />
+      <recent name="C:\Project\app-from-t2\dist\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Project\app-from-t2\src\styles\header" />
+      <recent name="C:\Project\app-from-t2\src\store\reducers" />
+      <recent name="C:\Project\app-from-t2\src\components\article\Block06Register" />
+      <recent name="C:\Project\app-from-t2\src\components\article\Block05OurCheerfulUsers" />
+      <recent name="C:\Project\app-from-t2\src\styles\article\UserInfoForBlock5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="All Tests" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.All Tests" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="Jest.All Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7aba76b-64af-45c6-9ccc-87a2ffd146a8" name="Default Changelist" comment="" />
+      <created>1571311854868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571311854868</updated>
+      <workItem from="1571311858296" duration="6731000" />
+      <workItem from="1571504938325" duration="39000" />
+      <workItem from="1571761699271" duration="83000" />
+      <workItem from="1571814492365" duration="3181000" />
+      <workItem from="1571817724053" duration="123000" />
+      <workItem from="1571819983885" duration="887000" />
+      <workItem from="1571820928148" duration="1505000" />
+      <workItem from="1571823132912" duration="9463000" />
+      <workItem from="1571893953908" duration="1482000" />
+      <workItem from="1571982211805" duration="5068000" />
+      <workItem from="1571991580624" duration="6498000" />
+      <workItem from="1571998231925" duration="1667000" />
+      <workItem from="1572171436451" duration="86000" />
+      <workItem from="1572543803943" duration="1443000" />
+      <workItem from="1572720035245" duration="703000" />
+      <workItem from="1572783574445" duration="609000" />
+      <workItem from="1574671078019" duration="25072000" />
+      <workItem from="1574753996265" duration="16241000" />
+      <workItem from="1574777334834" duration="17613000" />
+      <workItem from="1574840547210" duration="10313000" />
+      <workItem from="1574859590727" duration="2860000" />
+      <workItem from="1574863607105" duration="244000" />
+      <workItem from="1574931176714" duration="7270000" />
+      <workItem from="1574946787989" duration="14012000" />
+      <workItem from="1575014127567" duration="6571000" />
+      <workItem from="1575025759349" duration="5712000" />
+      <workItem from="1575127116804" duration="29234000" />
+      <workItem from="1575208887039" duration="5411000" />
+      <workItem from="1575214648886" duration="4138000" />
+      <workItem from="1575218832342" duration="139000" />
+      <workItem from="1575219140737" duration="4872000" />
+      <workItem from="1575226176614" duration="2105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

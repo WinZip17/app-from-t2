@@ -1,0 +1,302 @@
+/*дно :)*/
+footer {
+  display: flex;
+  flex-direction: column;
+  width: 1024px;
+  height: 315px;
+  background-color: #283593;
+  margin-top: 118px;
+  color: #ffffff;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    width: 768px;
+    margin-top: 100px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    width: 320px;
+    margin-top: 50px;
+    height: 460px;
+    display: flex;
+    flex-direction: column;
+  }
+
+}
+
+.footerMenuShell {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 1px #ffffff;
+  width: 100%;
+  padding-top: 20px;
+  padding-right: 47px;
+  height: 86px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    padding-right: 24px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    display: flex;
+    flex-direction: column;
+    height: 225px;
+    padding-right: 0;
+    margin-bottom: 0;
+    align-content: flex-end;
+  }
+}
+
+.footerMenu {
+  display: flex;
+  justify-content: flex-start;
+  padding-inline-start: 0;
+  margin-top: 10px;
+  margin-left: 0;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-top: 11px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    flex-direction: column;
+    margin: 11px auto 0;
+    width: auto;
+    height: 180px;
+  }
+}
+
+.footerMenu > li {
+  margin-left: 30px;
+  font-size: 11pt;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-right: 0;
+    margin-left: 28px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+.footerMenu > li:nth-child(5) {
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin: 5px auto 0;
+  }
+}
+
+.footerMenuItem {
+  display: flex;
+  font-size: 12.5pt;
+  margin-bottom: 9px;
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin: 4px auto 0;
+  }
+}
+
+.footerMenuItem a {
+  text-decoration: none;
+  color: #ffffff;
+  margin: 0 0 0 auto;
+  font-size: 11pt;
+  letter-spacing: 0.035ex;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+}
+
+.footerMenuItem a:hover {
+  color: #ef6c00;
+}
+
+.logoBlock {
+  margin-top: 10px;
+  margin-left: 48px;
+  width: 133px;
+  height: 25px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-left: 23px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin: 11px auto 0;
+  }
+}
+
+#logoAbz_svg__Shape, #logoAbz_svg__abz_agency > path{
+  fill: #FFFFFF;
+}
+
+.contactsLink {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: flex-start;
+  @media (min-width: 320px) and (max-width: 1024px) {
+    justify-content: flex-start;
+  }
+}
+
+.contacts {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  margin-top: 22px;
+  margin-left: 49px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-left: 15px;
+    margin-top: 25px;
+    width: 200px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-left: 0;
+    margin-top: 24px;
+    width: 100%;
+  }
+}
+
+.contacts-value{
+  display: flex;
+  flex-direction: column;
+  @media (min-width: 320px) and (max-width: 768px) {
+    height: auto;
+    margin-bottom: 3px;
+    width: 100%;
+  }
+}
+
+.contacts-icon{
+  display: flex;
+  flex-direction: column;
+  @media (min-width: 320px) and (max-width: 1024px) {
+    display: none;
+  }
+}
+
+.contacts-value > span {
+  font-size: 15pt;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 9px;
+  margin-bottom: 15px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    font-size: 14pt;
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: -0.033ex;
+    margin-bottom: 17px;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    width: 100%;
+    text-align: center;
+    font-size: 14pt;
+    margin-left: 0;
+    margin-bottom: 7px;
+    letter-spacing: -0.033ex;
+  }
+}
+
+.contacts-icon > svg {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.footerImgMail {
+  margin-top: 9px;
+}
+
+.footerImgPhone {
+  margin-top: 22px;
+}
+
+.footerImgCellPhone {
+  margin-top: 22px;
+}
+
+.link1, .link2, .link3, .link4 {
+  margin-top: 25px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    display: none;
+  }
+}
+
+.link1 {
+  margin-left: 54px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-left: 58px;
+  }
+}
+
+.link2 {
+  margin-left: 43px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-left: 6px;
+  }
+}
+
+.link3 {
+  margin-left: 53px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-left: 16px;
+  }
+}
+
+.link4 {
+  margin-left: 49px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-left: 11px;
+  }
+}
+
+.social {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 48px;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin: -1px 24px 0 23px;
+    letter-spacing: -0.07ex;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin: 0;
+    flex-direction: column-reverse;
+  }
+}
+
+.social > div {
+  height: 60px;
+  @media (min-width: 320px) and (max-width: 768px) {
+    height: auto;
+  }
+}
+
+.socialContext {
+  padding-top: 26px;
+  font-size: 9pt;
+  font-family: 'Source Sans Pro', sans-serif;
+  @media (min-width: 768px) and (max-width: 1024px) {
+    font-size: 10pt;
+    padding-top: 16px;
+
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    padding-top: 10px;
+    padding-left: 64px;
+  }
+}
+
+.socialIconShell {
+  @media (min-width: 320px) and (max-width: 768px) {
+    margin-left: 35px;
+  }
+}
+
+.socialIcon > svg {
+  margin-top: 16px;
+  margin-left: 20px;
+}
+
+.socialIcon:hover > path {
+  fill: #ef6c00;
+}
+
+.socialIcon:hover > g {
+  fill: #ef6c00;
+}
