@@ -6,7 +6,7 @@ import JsAlt3 from "../../media/article/javascript.svg"
 import {connect} from "react-redux";
 
 const Block03 = (props) => {
-    const viewBoxManMobile = `0 0 100 114`
+    const viewBoxManMobile = `0 0 100 114`;
     return (
         <div id="relationships" className="backgroundAlt3">
             <div className="alt3">

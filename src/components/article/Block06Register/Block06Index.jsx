@@ -22,7 +22,7 @@ const Block06Index = (props) => {
 };
 
 Block06Index.propTypes = {
-    innerWidth: propTypes.number,
+    innerWidth: propTypes.number
 };
 
 let mapStateToProps = (state) => {

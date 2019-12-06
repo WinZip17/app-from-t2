@@ -13,8 +13,8 @@ test('change name photo', () => {
         token: "",
         isVisible: false
     };
-    let data = "test name.jpg"
-    let action = updatePhotoAC(data)
-    let newState = registerUserReducer(state, action)
+    let data = "test name.jpg";
+    let action = updatePhotoAC(data);
+    let newState = registerUserReducer(state, action);
     expect(newState.photo_file_name).toBe("test name.jpg");
 });

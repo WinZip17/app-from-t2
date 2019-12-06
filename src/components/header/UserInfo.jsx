@@ -11,7 +11,7 @@ const UserInfo = (props) => {
 
     useEffect (() => {
         props.getUsersById(1)
-    }, [props.user.position_id])
+    }, [props.user.position_id]);
 
     return props.user.position_id ? <div className="user">
         <div className="userInfo">

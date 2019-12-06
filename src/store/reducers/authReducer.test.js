@@ -7,8 +7,8 @@ test('add e-mail header user', () => {
         superUserInfo: {
             email: "",
         }};
-    let data = {"user" : {"email" : "axaxaxax@ua.ua"}}
-    let action = saveUsersAC(data)
-    let newState = authReducer(state, action)
+    let data = {"user" : {"email" : "axaxaxax@ua.ua"}};
+    let action = saveUsersAC(data);
+    let newState = authReducer(state, action);
     expect(newState.superUserInfo.email).toBe("axaxaxax@ua.ua");
 });

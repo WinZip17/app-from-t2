@@ -26,7 +26,7 @@ const Header = () => {
             </label>
         </header>
     );
-}
+};
 
 
 export default Header;

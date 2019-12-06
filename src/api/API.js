@@ -58,6 +58,5 @@ export const API = {
             .catch(function (error) {
                 // proccess network errors
             });
-
     }
 };

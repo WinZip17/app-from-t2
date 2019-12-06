@@ -1,5 +1,6 @@
 /*Окно подтверждения регестрации и затемнение остального*/
 .fon-successfully {
+  display: block;
   position: fixed;
   background-color: #000000;
   top: 0;
@@ -11,9 +12,11 @@
 }
 
 .congratulationsDiv-successfully {
+  display: block;
   position: fixed;
+  margin-left: -145px;
   top: 33%;
-  left: 41.5%;
+  left: 50%;
   background-color: white;
   text-align: center;
   z-index: 957;
@@ -22,12 +25,6 @@
   width: 290px;
   border-radius: 5px;
   padding-right: 18px;
-  @media (min-width: 768px) and (max-width: 1024px) {
-    left: 35%;
-  }
-  @media (min-width: 320px) and (max-width: 768px) {
-    left: 31%;
-  }
 }
 
 .congratulationsDiv-successfully > button {

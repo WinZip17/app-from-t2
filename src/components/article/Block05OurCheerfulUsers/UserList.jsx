@@ -4,14 +4,14 @@ import {getUsersThunkCreator, showUsersThunkCreator} from "../../../store/action
 import UserInfo from "./UserInfo";
 import propTypes from "prop-types";
 
-let count
+let count;
 
 const UserList = (props) => {
 
     useEffect(() => {
         count = props.innerWidth > 768 ? 6 : 3
         !props.userList.lastPage && props.getUsersThunk(1, count)
-    }, [props.innerWidth])
+    }, [props.innerWidth]);
 
     return <div className="UserListContainer">
         {props.userList.lastPage ? <div className="usersList">
@@ -32,7 +32,7 @@ const UserList = (props) => {
 
 UserList.propTypes = {
     userList: propTypes.object,
-    innerWidth: propTypes.number,
+    innerWidth: propTypes.number
 };
 
 
@@ -50,7 +50,7 @@ let mapDispatchToProps = (dispatch) => {
         },
         showMoreUsers: (page , count) => {
             dispatch(showUsersThunkCreator(page , count))
-        },
+        }
     };
 };
 

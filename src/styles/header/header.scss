@@ -44,9 +44,10 @@ header [type="checkbox"] {
   display: flex;
   justify-content: flex-start;
   padding-inline-start: 0;
-  width: 460px;
+  width: 100%;
   margin-top: 14px;
   margin-left: 67px;
+  padding-left: 0;
   @media (min-width: 768px) and (max-width: 1024px) {
     flex-direction: column;
     width: 240px;

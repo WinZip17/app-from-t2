@@ -18,7 +18,7 @@ const Successfully = (props) => {
 };
 
 Successfully.propTypes = {
-    isVisible: propTypes.func,
+    isVisible: propTypes.func
 };
 
 export default Successfully;

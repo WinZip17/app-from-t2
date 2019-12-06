@@ -2,7 +2,7 @@ import React from 'react';
 import ManMobile from '../../media/article/man-mobile.svg';
 
 const Block02 = () => {
-    const viewBoxManMobile = `0 0 289 285`
+    const viewBoxManMobile = `0 0 289 285`;
     return (
         <div className="backgroundAlt2">
             <div className="alt2">

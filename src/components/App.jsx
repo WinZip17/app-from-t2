@@ -10,7 +10,7 @@ import Footer from "./footer/Footer";
 
 const App = (props) => {
 
-    props.innerWidth === 0 && props.setInnerWidth(window.innerWidth)
+    props.innerWidth === 0 && props.setInnerWidth(window.innerWidth);
 
     useEffect(() => {
         function handleResize() {
@@ -31,7 +31,7 @@ const App = (props) => {
 
 App.propTypes = {
     innerWidth: propTypes.number,
-    setInnerWidth: propTypes.func,
+    setInnerWidth: propTypes.func
 };
 
 let mapStateToProps = (state) => {

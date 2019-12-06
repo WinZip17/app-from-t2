@@ -11,7 +11,7 @@ const formattedPhone = (phone) => {
         newPhone = phone
     }
     return newPhone
-}
+};
 
 const UserInfo = (props) => {
     let user404 = "https://frontend-test-assignment-api.abz.agency/images/placeholders/placeholder.png";

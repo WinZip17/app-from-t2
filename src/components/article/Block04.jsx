@@ -1,12 +1,12 @@
 import React from 'react';
 import propTypes from "prop-types";
-import ManLaptopV1 from "../../media/article/man-laptop-v1.svg"
-import ManLaptopV2 from "../../media/article/man-laptop-v2.svg"
+import ManLaptopV1 from "../../media/article/man-laptop-v1.svg";
+import ManLaptopV2 from "../../media/article/man-laptop-v2.svg";
 import {connect} from "react-redux";
 
 const Block04 = (props) => {
-    const viewBoxManLaptopV1 = `0 0 429 362`
-    const viewBoxManLaptopV2 = `0 0 343 407`
+    const viewBoxManLaptopV1 = `0 0 429 362`;
+    const viewBoxManLaptopV2 = `0 0 343 407`;
     return (
         <div id='requirements' className="backgroundAlt4">
             <div className="alt4">

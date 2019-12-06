@@ -10,12 +10,12 @@ export let reducers = combineReducers({
     userList: ourCheerfulUsersReducer,
     authUser: authReducer,
     registerUser: registerUserReducer,
-    app: appReducer,
+    app: appReducer
 });
 
 let store = createStore(reducers,
     applyMiddleware(thunk));
 
-window.store = store;
+// window.store = store;
 
 export default store;
