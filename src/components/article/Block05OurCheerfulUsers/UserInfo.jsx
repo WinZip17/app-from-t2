@@ -6,7 +6,7 @@ import propTypes from "prop-types";
 const formattedPhone = (phone) => {
     let newPhone = "";
     if (phone.length === 13) {
-        newPhone = `+38 (${phone.slice(3,6)}) ${phone.slice(6,9)} ${phone.slice(9,11)} ${phone.slice(11,13)}`
+        newPhone = `+38 (${phone.slice(3, 6)}) ${phone.slice(6, 9)} ${phone.slice(9, 11)} ${phone.slice(11, 13)}`
     } else {
         newPhone = phone
     }

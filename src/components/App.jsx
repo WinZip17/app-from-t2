@@ -16,15 +16,16 @@ const App = (props) => {
         function handleResize() {
             props.setInnerWidth(window.innerWidth);
         }
+
         window.addEventListener("resize", handleResize);
         return () => window.removeEventListener("resize", handleResize);
     }, [props.innerWidth]);
 
     return (
         <div>
-            <Header />
-            <ArticleIndex />
-            <Footer />
+            <Header/>
+            <ArticleIndex/>
+            <Footer/>
         </div>
     );
 }

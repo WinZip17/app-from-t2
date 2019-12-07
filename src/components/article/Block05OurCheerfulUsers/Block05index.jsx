@@ -9,7 +9,7 @@ const Block05index = () => {
                     <h1> Our cheerful users </h1>
                     <h2> Attention! Sorting users by registration date</h2>
                 </div>
-                <UserListInfo />
+                <UserListInfo/>
             </div>
         </div>
     )

@@ -193,7 +193,6 @@ const RegFormsData = (props) => {
                                        onBlur={getErrors}>
                                 {(inputProps) => <Input {...inputProps}/>}
                             </InputMask>
-
                         )}
                     </Form.Item>
                     <Form.Item className="form-item">
