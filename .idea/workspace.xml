@@ -2,17 +2,177 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7aba76b-64af-45c6-9ccc-87a2ffd146a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1.index-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/article/Block05OurCheerfulUsers/Block05index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/article/Block05OurCheerfulUsers/Block05index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/article/Block05OurCheerfulUsers/UserInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/article/Block05OurCheerfulUsers/UserInfo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/article/Block06Register/RegForms.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/article/Block06Register/RegForms.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/1.index-bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/1.index-bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index-bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index-bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/configuration.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/configuration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/partial.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/partial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/lib/rewrite-live-references.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/lib/rewrite-live-references.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/parser/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/parser/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-amd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-amd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-commonjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-commonjs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-regenerator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-regenerator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/typeof.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/typeof.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/typeof.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/typeof.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/child_process.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/child_process.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/react/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/react/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/react/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/react/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/CHANGELOG.en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/CHANGELOG.en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/CHANGELOG.zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/CHANGELOG.zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/button/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/button/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/button/style/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/button/style/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/date-picker/RangePicker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/date-picker/RangePicker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/date-picker/RangePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/date-picker/RangePicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/date-picker/RangePicker.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/date-picker/RangePicker.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/date-picker/interface.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/date-picker/interface.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/descriptions/Col.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/descriptions/Col.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/descriptions/Col.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/descriptions/Col.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/form/__tests__/type.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/form/__tests__/type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/form/__tests__/type.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/icon/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/icon/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/list/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/list/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/list/style/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/list/style/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/table/filterDropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/table/filterDropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/table/filterDropdown.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/table/filterDropdown.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/table/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/table/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/table/style/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/table/style/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/table/style/size.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/table/style/size.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/tree/Tree.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/tree/Tree.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/tree/Tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/tree/Tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/tree/Tree.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/tree/Tree.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/typography/Editable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/typography/Editable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/typography/Editable.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/typography/Editable.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/typography/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/typography/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/es/typography/style/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/es/typography/style/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/button/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/button/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/button/style/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/button/style/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/date-picker/RangePicker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/date-picker/RangePicker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/date-picker/RangePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/date-picker/RangePicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/date-picker/RangePicker.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/date-picker/RangePicker.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/date-picker/interface.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/date-picker/interface.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/descriptions/Col.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/descriptions/Col.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/descriptions/Col.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/descriptions/Col.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/form/__tests__/type.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/form/__tests__/type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/form/__tests__/type.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/icon/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/icon/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/list/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/list/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/list/style/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/list/style/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/table/filterDropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/table/filterDropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/table/filterDropdown.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/table/filterDropdown.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/table/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/table/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/table/style/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/table/style/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/table/style/size.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/table/style/size.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/tree/Tree.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/tree/Tree.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/tree/Tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/tree/Tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/tree/Tree.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/tree/Tree.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/typography/Editable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/typography/Editable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/typography/Editable.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/typography/Editable.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/typography/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/typography/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/typography/style/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/typography/style/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/version/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/version/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/lib/version/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/lib/version/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/antd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/antd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js-compat/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js-compat/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js-compat/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js-compat/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js-compat/get-modules-list-for-target-version.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js-compat/get-modules-list-for-target-version.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js-compat/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js-compat/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js-compat/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js-compat/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/client/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/client/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/client/core.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/client/core.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/client/library.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/client/library.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/client/library.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/client/library.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/client/shim.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/client/shim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/client/shim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/client/shim.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/library/modules/_core.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/_core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/modules/_core.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/_core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/postinstall.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-js/postinstall.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/dist/options.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/dist/options.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/dist/plugins/postcss-icss-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/dist/plugins/postcss-icss-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/dist/plugins/postcss-import-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/dist/plugins/postcss-import-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/dist/plugins/postcss-url-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/dist/plugins/postcss-url-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/dist/runtime/getUrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/dist/runtime/getUrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/dist/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/dist/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fb-watchman/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fb-watchman/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/docs/syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/docs/syntax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/postcss.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/postcss.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/processor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/processor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/es/HeadTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/es/HeadTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/es/Table.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/es/Table.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/es/TableHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/es/TableHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/es/TableHeaderRow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/es/TableHeaderRow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/es/interface.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/es/interface.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/BaseTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/BaseTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/BodyTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/BodyTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/ColGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/ColGroup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/ColumnGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/ColumnGroup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/ColumnManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/ColumnManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/ExpandIcon.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/ExpandIcon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/ExpandableRow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/ExpandableRow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/ExpandableTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/ExpandableTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/HeadTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/HeadTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/Table.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/Table.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/Table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/TableCell.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/TableCell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/TableHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/TableHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/TableHeaderRow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/TableHeaderRow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/TableRow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/TableRow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/lib/interface.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/lib/interface.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-table/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-table/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/es/PortalWrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/es/PortalWrapper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/es/debug/diff.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/es/debug/diff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/es/getContainerRenderMixin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/es/getContainerRenderMixin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/es/switchScrollingEffect.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/es/switchScrollingEffect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/es/test/domHook.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/es/test/domHook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/lib/PortalWrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/lib/PortalWrapper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/lib/debug/diff.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/lib/debug/diff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/lib/getContainerRenderMixin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/lib/getContainerRenderMixin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/lib/switchScrollingEffect.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/lib/switchScrollingEffect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/lib/test/domHook.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/lib/test/domHook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc-util/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc-util/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serialize-javascript/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/serialize-javascript/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serialize-javascript/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/serialize-javascript/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serialize-javascript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/serialize-javascript/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/minify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/minify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/header/headerUserInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header/headerUserInfo.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +188,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vk-app-blog3425" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -111,8 +271,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.deploy" />
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
         <item itemvalue="Jest.All Tests" />
       </list>
     </recent_temporary>
@@ -166,7 +326,10 @@
       <workItem from="1575611803235" duration="3643000" />
       <workItem from="1575631073880" duration="5001000" />
       <workItem from="1575636213986" duration="2357000" />
-      <workItem from="1575721997399" duration="3581000" />
+      <workItem from="1575721997399" duration="5869000" />
+      <workItem from="1575813613671" duration="22000" />
+      <workItem from="1575908371027" duration="714000" />
+      <workItem from="1575909147426" duration="6153000" />
     </task>
     <servers />
   </component>
