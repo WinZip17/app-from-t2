@@ -23,7 +23,7 @@ const UserList = (props) => {
             ? <div></div>
             : <div className="alt5Button">
                 <button onClick={() => {
-                    props.showMoreUsers(props.userList.lastPage + 1, count)
+                    props.showMoreUsers(props.userList.lastPage + 1, 6)
                 }} className="buttonSecondary">Show more
                 </button>
             </div>}

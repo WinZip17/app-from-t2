@@ -1,17 +1,34 @@
+//прелоадер (используется один раз только при загрз
 @import "preloader";
+
+//миксины
 @import "mixin";
+
+//основная компонента, глобальные стили и кнопки
 @import "app";
+
+//стили раздела хеадер, отдельным файлом блок отоброжаемого пользователя
 @import "header/header";
 @import "header/headerUserInfo";
+
+//Стили основного блока (article)
 @import "article/article";
+
+//первые 4 блока с верху вниз
 @import "article/block01";
 @import "article/block02";
 @import "article/block03";
 @import "article/block04";
+
+//блок с отоброжением пользователеей, отдельно блок с сеткой где выводятся пользователи и отдельно блок пользователя
 @import "article/Block05UserList/block05";
 @import "article/Block05UserList/UserList";
 @import "article/Block05UserList/UserInfo";
+
+//блок регистрации, отдельно вынесены формы и сообщение об успешной регестрации
 @import "article/Block06Register/Block06";
 @import "article/Block06Register/RegForms";
 @import "article/Block06Register/successfully";
+
+//стили футера
 @import "footer/footer";

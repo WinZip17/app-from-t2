@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f7aba76b-64af-45c6-9ccc-87a2ffd146a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index-bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index-bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/article/Block06Register/RegForms.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/article/Block06Register/RegForms.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/article/Block06Register/RegForms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/article/Block06Register/RegForms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/article/Block05OurCheerfulUsers/UserList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/article/Block05OurCheerfulUsers/UserList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vk-order-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -164,6 +163,7 @@
       <workItem from="1575908371027" duration="714000" />
       <workItem from="1575909147426" duration="13141000" />
       <workItem from="1576001441563" duration="386000" />
+      <workItem from="1576230146419" duration="907000" />
     </task>
     <servers />
   </component>
