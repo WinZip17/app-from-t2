@@ -67,7 +67,7 @@ const RegFormsData = (props) => {
             callback("Size must not exceed 5MB");
         } else if (value && value.file.type !== "image/jpeg") {
             setErrors(true);
-            callback("user photo should be jpg/jpeg image");
+            callback("User photo should be jpg/jpeg image");
         } else {
             setErrors(false);
             callback();
@@ -218,7 +218,7 @@ const RegFormsData = (props) => {
                     </Form.Item>
                     <Form.Item>
                         {getFieldDecorator('photo', {
-                            validateTrigger: ["onBlur"],
+                            validateTrigger: ["onChange"],
                             rules: [
                                 {required: true, message: 'Photo is required!'},
                                 {validator: photoValid}

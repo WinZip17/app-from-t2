@@ -137,7 +137,6 @@
     width: 290px!important;
     margin-right: 0;
     margin-top: 0;
-    align-items: center;
   }
 }
 
@@ -148,11 +147,9 @@
   flex-direction: row;
   flex-wrap: nowrap;
   @media (min-width: 320px) and (max-width: 768px) {
-    margin-top: 37px;
     width: 290px!important;
     justify-content: space-between;
   }
-
 }
 
 .ant-upload-select-text {
@@ -175,6 +172,7 @@
   margin-top: 14px;
   margin-left: 15px;
   width: 304px;
+  white-space: nowrap;
   @include tooltip;
   @media (min-width: 768px) and (max-width: 1024px) {
     width: 199px;
